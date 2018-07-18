@@ -1,0 +1,5 @@
+{
+    "env":{
+        "MONGO_ATLAS_pw":"Put your own Mongo Password"
+    }
+}
